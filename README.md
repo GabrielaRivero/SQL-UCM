@@ -26,7 +26,7 @@ Consultas avanzadas de cruce entre operaciones, comercios y devoluciones:
 2. Creación de una vista `orders_view` con toda la información relevante por operación.
 
 ### Ejercicio 4
-Funcionalidad propia desarrollada para obtener un insight adicional
+Funcionalidad adicional para calcular la proporción de operaciones canceladas o con problemas por país y comercio, y proponer un protocolo de seguridad.
 
 ## Tecnología
 - MySQL Workbench 8.x
